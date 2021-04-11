@@ -18,5 +18,6 @@ This class has the following
 4. display linkedlist method
 
 NODE CLASS
+
 This class declares variables data and next.
  
