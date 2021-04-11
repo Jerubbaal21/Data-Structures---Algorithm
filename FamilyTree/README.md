@@ -14,3 +14,26 @@ Preorder Traversal − Traverses a tree in a pre-order manner.
 Inorder Traversal − Traverses a tree in an in-order manner.
 
 Postorder Traversal − Traverses a tree in a post-order manner.
+
+THE MAIN CLASS
+The program runs from this class. It performs the following operations.
+
+linkedlist insertion
+list display *adding at the font
+adding at a specific position
+display final list
+DDLinkedlist
+This class defines the following methods
+
+add method
+add at the end method
+dd at position method
+delete from front
+delete from end
+delete at position
+display list
+NODE
+This class basically declares the variables node, next, previous.
+
+RUN CODE
+To run the this program. Create three class (main.java, DDLinkedlist.java, node.java)in the IDE or Text Editor, and then run the Main.java.
