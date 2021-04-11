@@ -17,21 +17,20 @@ Postorder Traversal − Traverses a tree in a post-order manner.
 
 THE MAIN CLASS
 The program runs from this class. It performs the following operations.
+1. linkedlist insertion
+2. list display *adding at the font
+3. adding at a specific position
+4. display final list
 
-linkedlist insertion
-list display *adding at the font
-adding at a specific position
-display final list
 DDLinkedlist
 This class defines the following methods
-
-add method
-add at the end method
-dd at position method
-delete from front
-delete from end
-delete at position
-display list
+1. add method
+2. add at the end method
+3. dd at position method
+4. delete from front
+5. delete from end
+6. delete at position
+7. display list
 NODE
 This class basically declares the variables node, next, previous.
 
