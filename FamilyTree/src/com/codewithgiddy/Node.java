@@ -1,5 +1,6 @@
 package com.codewithgiddy;
 
+// Gideon Adotey Adoquaye
 //Creating node class
 public class Node {
     String data;        //declaring data variable
