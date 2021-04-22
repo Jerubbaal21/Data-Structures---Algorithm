@@ -1,5 +1,7 @@
 package com.codewithgiddy;
 
+// Gideon Adotey Adoquaye
+
 
 //CREATING QUEUE CLASS AND Parameter OF GENERICS
 public class Queue<T>
