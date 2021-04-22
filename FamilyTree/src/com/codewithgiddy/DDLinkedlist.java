@@ -1,5 +1,7 @@
 package com.codewithgiddy;
 
+// Gideon Adotey Adoquaye
+
 public class DDLinkedlist {
     private Node head;              //declaring node, head
     private String name;                // declaring name String
